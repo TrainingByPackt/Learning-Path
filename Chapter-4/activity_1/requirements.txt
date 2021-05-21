@@ -67,7 +67,7 @@ scipy==1.0.0
 seaborn==0.8.1
 simplegeneric==0.8.1
 six==1.11.0
-tensorflow==1.4.0
+tensorflow==2.5.0
 tensorflow-tensorboard==0.4.0rc3
 terminado==0.8.1
 termstyle==0.1.11
